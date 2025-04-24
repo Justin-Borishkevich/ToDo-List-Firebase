@@ -1,9 +1,3 @@
 ## Demo
+[![Watch the demo](https://img.youtube.com/vi/5zeeyEwEy7A/0.jpg)](https://youtu.be/5zeeyEwEy7A)
 
-<iframe width="560" height="315"
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/5zeeyEwEy7A?feature=share)"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
